@@ -39,3 +39,12 @@ p{
     padding-left:10px; 
 }
 
+header{
+    text-align: center;
+    color: #4697a1;
+    font-style: Monospace;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
